@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    text-align: right;
+}
+.navbar a {
+    font-size: 18px;
+    color: red;
+    text-decoration: none;
+    text-align: right;
+}
+.main{
+    width: 100%;
+    padding: 80px 0px;
+    align-items: center;
+    justify-content: space-around;
+}
+.main img {
+    float: left;
+    align-items: center;
+    width: 1111px;
+    max-width: 95%;
+}
+.main-text h1 {
+    padding: 30px;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+.main-text p{
+    padding: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.main-text h5{ 
+    text-align: center;
+}
+
