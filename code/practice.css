@@ -61,10 +61,6 @@ footer a {
     font-size: 2rem;
 
 }
-div .first-project {
-    align-items: center;
-    padding: 126px 349px 1px;
-}
 .library {
     padding: 50px;
     width: 520px;
@@ -98,7 +94,7 @@ section {
     font-size: 18px;
 
 }
-section p {
+.basketball-section p {
     padding: 30px 0px;
 }
 .basketball {
@@ -119,4 +115,15 @@ section p {
     padding: 15px;
     border-top: solid #a7a2a2;
 }
-
+.portfolio-upper-header{
+    font-size: 2rem;
+}
+.container{
+    display: inline-block;
+}
+.second-project p{
+    font-size: 12px;
+}
+.portfolio-upper-body {
+    
+}
