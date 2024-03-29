@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 
 }
 header {
@@ -54,6 +55,7 @@ footer {
     padding: 17px;
     position: fixed;
     width: 100%;
+    top: 91%;
 }
 footer a {
     color:white;
