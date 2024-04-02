@@ -15,6 +15,8 @@ nav {
     padding: 29px;
     position: fixed;
     width: 100%;
+    justify-content: end;
+    display: flex;
 }
 .navbar a {
     padding: 0px;
@@ -115,4 +117,21 @@ section {
     float: right;
     padding: 15px;
     border-top: solid #a7a2a2;
+}
+.form-container {
+    padding: 10px;
+    margin: -163px 277px;
+}
+.form-box {
+    padding: 10px;
+    margin: 20px;
+}
+input {
+    display: flex;
+    flex-direction: column;
+}
+.contact-header {
+    display: flex;
+    justify-content: center;
+    padding: 146px;
 }
